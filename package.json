@@ -1,0 +1,12 @@
+{
+  "name": "decoracao-sala",
+  "version": "1.0.0",
+  "description": "Página de vendas para O Guia de Decoração de Sala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
